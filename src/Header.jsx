@@ -1,4 +1,4 @@
-import taskLogo from './assets/taskLogo';
+import taskLogo from './assets/taskLogo.png';
 
 const Header = () => {
   return (
